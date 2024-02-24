@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dankoy&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=Dankoy)
+
 <!--
 **Dankoy/Dankoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
